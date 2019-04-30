@@ -10,7 +10,7 @@ const ModalWindow = ({ modalIsOpen, closeModalWindow }) => {
       <div className="modal-window">
         <div className="modal-window__container">
           <div onClick={() => closeModalWindow()} className="modal-window__close-window">
-            <img src="/images/cross.svg" alt="cross"/>
+            <img src="images/cross.svg" alt="cross"/>
           </div>
           <div className="modal-window__title">Mehr Informationen:</div>
           <div className="modal-window__decorate-line" />

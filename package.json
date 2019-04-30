@@ -2,6 +2,7 @@
   "name": "germany",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://andriibozhko1.github.io/Upfront/",
   "dependencies": {
     "node-sass": "^4.12.0",
     "react": "^16.8.6",

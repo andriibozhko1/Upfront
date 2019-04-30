@@ -14,11 +14,11 @@ const Info = ({ openModalWindow, modalIsOpen }) => {
       <div className="Info__content">
         <ul className="Info__list">
           <li className="Info__list-item">
-            <img src="/images/arrow.svg" alt="arrow"/>
+            <img src="images/arrow.svg" alt="arrow"/>
             <span>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
           </li>
           <li className="Info__list-item">
-            <img src="/images/arrow.svg" alt="arrow"/>
+            <img src="images/arrow.svg" alt="arrow"/>
             <span>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span>
           </li>
         </ul>

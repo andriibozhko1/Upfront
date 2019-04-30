@@ -6,7 +6,9 @@ import './page.scss'
 
 const Main = () => {
   return (
-    <div className="Main">
+    <div style={{
+      background: "url('images/mood.jpg') 100% no-repeat",
+    }} className="Main">
       <div className="Main__logo">
         <img src="images/logo_JL.svg" alt="logo"/>
       </div>
