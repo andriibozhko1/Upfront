@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Upfront/static/css/main.f02898d0.chunk.css",
+    "main.js": "/Upfront/static/js/main.7d621d7d.chunk.js",
+    "main.js.map": "/Upfront/static/js/main.7d621d7d.chunk.js.map",
+    "runtime~main.js": "/Upfront/static/js/runtime~main.7e3a5591.js",
+    "runtime~main.js.map": "/Upfront/static/js/runtime~main.7e3a5591.js.map",
+    "static/js/2.22c3aaae.chunk.js": "/Upfront/static/js/2.22c3aaae.chunk.js",
+    "static/js/2.22c3aaae.chunk.js.map": "/Upfront/static/js/2.22c3aaae.chunk.js.map",
+    "index.html": "/Upfront/index.html",
+    "precache-manifest.02cd21b316c1c5f859ae92a08d0cfc1f.js": "/Upfront/precache-manifest.02cd21b316c1c5f859ae92a08d0cfc1f.js",
+    "service-worker.js": "/Upfront/service-worker.js",
+    "static/css/main.f02898d0.chunk.css.map": "/Upfront/static/css/main.f02898d0.chunk.css.map"
+  }
+}
